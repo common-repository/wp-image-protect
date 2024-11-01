@@ -1,0 +1,477 @@
+# Copyright (C) 2014 WP Image Protect Lite
+# This file is distributed under the same license as the WP Image Protect Lite package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Image Protect Lite 2.6\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-image-protect\n"
+"POT-Creation-Date: 2014-02-20 19:40:33+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: php/wpipp-server-info.php:38
+msgid "WordPress Details"
+msgstr ""
+
+#: php/wpipp-server-info.php:45
+msgid "Images will not be displayed if not production"
+msgstr ""
+
+#: php/wpipp-server-info.php:63
+msgid "Unable to get WordPress option for "
+msgstr ""
+
+#: php/wpipp-server-info.php:80
+msgid "Unable to get WordPress info for "
+msgstr ""
+
+#: php/wpipp-server-info.php:92
+msgid "GD Info"
+msgstr ""
+
+#: php/wpipp-server-info.php:114
+msgid "PHP Configuration Options"
+msgstr ""
+
+#: php/wpipp-settings.php:88
+msgid ""
+"You've actived WP Image Protect but not configured it - No watermarks will "
+"be displayed yet. "
+msgstr ""
+
+#: php/wpipp-settings.php:89
+msgid "You must %sgoto to the settings page%s to configure site watermarks"
+msgstr ""
+
+#: php/wpipp-settings.php:90 wp-image-protect.php:270
+msgid "Settings"
+msgstr ""
+
+#: php/wpipp-settings.php:91
+msgid "Dismiss this Message"
+msgstr ""
+
+#: php/wpipp-settings.php:126
+msgid ""
+"Permalinks have not been set or are set to default (watermarks will not be "
+"displayed)"
+msgstr ""
+
+#: php/wpipp-settings.php:128
+msgid ""
+"You must %sgoto to the permalink settings page%s to configure permalinks"
+msgstr ""
+
+#: php/wpipp-settings.php:129
+msgid "Permalink Settings"
+msgstr ""
+
+#: php/wpipp-settings.php:136
+msgid ""
+"WP Image Protect - Set a Permalink Option other than Default on this page to "
+"enable watermarks"
+msgstr ""
+
+#: php/wpipp-settings.php:169
+msgid "Currently Hidden - Click to show settings"
+msgstr ""
+
+#: php/wpipp-settings.php:169
+msgid "Click to hide settings"
+msgstr ""
+
+#: php/wpipp-settings.php:169
+msgid "Are you sure you wish to edit these settings?"
+msgstr ""
+
+#: php/wpipp-settings.php:177
+msgid "Font manager cannot load, limited selection of fonts will be available."
+msgstr ""
+
+#: php/wpipp-settings.php:212
+msgid "wpippDisplay"
+msgstr ""
+
+#: php/wpipp-settings.php:213
+msgid "wpipp_display"
+msgstr ""
+
+#: php/wpipp-settings.php:214
+msgid "WP Image Protect Lite Settings"
+msgstr ""
+
+#: php/wpipp-settings.php:215
+msgid ""
+"This page allows you to configure image watermarking and other settings for "
+"WP Image Protect Lite."
+msgstr ""
+
+#: php/wpipp-settings.php:216
+msgid "WP Image Protect Settings"
+msgstr ""
+
+#: php/wpipp-settings.php:247
+msgid "Visible Watermark Settings"
+msgstr ""
+
+#: php/wpipp-settings.php:248
+msgid "This section controls how visible watermarks appear on your content"
+msgstr ""
+
+#: php/wpipp-settings.php:253
+msgid ""
+"Preview of how watermarks will appear on site images (click <b>Save Changes</"
+"b> below to view)"
+msgstr ""
+
+#: php/wpipp-settings.php:253
+msgid ""
+"This is only a guide, for best result check your website. Be sure to clear "
+"caches if watermarks do not appear correctly at first"
+msgstr ""
+
+#: php/wpipp-settings.php:256
+msgid "Current Image Preview"
+msgstr ""
+
+#: php/wpipp-settings.php:257
+msgid "How your watermark will appear on images"
+msgstr ""
+
+#: php/wpipp-settings.php:265
+msgid "Advanced Options"
+msgstr ""
+
+#: php/wpipp-settings.php:266
+msgid "Additional options for WP Image Protect"
+msgstr ""
+
+#: php/wpipp-settings.php:279 php/wpipp-settings.php:288
+msgid "Red"
+msgstr ""
+
+#: php/wpipp-settings.php:280 php/wpipp-settings.php:289
+msgid "Green"
+msgstr ""
+
+#: php/wpipp-settings.php:281 php/wpipp-settings.php:290
+msgid "Blue"
+msgstr ""
+
+#: php/wpipp-settings.php:282 php/wpipp-settings.php:291
+msgid "White"
+msgstr ""
+
+#: php/wpipp-settings.php:283 php/wpipp-settings.php:292
+msgid "Black"
+msgstr ""
+
+#: php/wpipp-settings.php:284 php/wpipp-settings.php:293
+msgid "Gray"
+msgstr ""
+
+#: php/wpipp-settings.php:287
+msgid "Transparent (None)"
+msgstr ""
+
+#: php/wpipp-settings.php:296
+msgid "Top Left"
+msgstr ""
+
+#: php/wpipp-settings.php:297
+msgid "Top Middle"
+msgstr ""
+
+#: php/wpipp-settings.php:298
+msgid "Top Right"
+msgstr ""
+
+#: php/wpipp-settings.php:299
+msgid "Middle Left"
+msgstr ""
+
+#: php/wpipp-settings.php:300
+msgid "Middle"
+msgstr ""
+
+#: php/wpipp-settings.php:301
+msgid "Middle Right"
+msgstr ""
+
+#: php/wpipp-settings.php:302
+msgid "Bottom Left"
+msgstr ""
+
+#: php/wpipp-settings.php:303
+msgid "Bottom Middle"
+msgstr ""
+
+#: php/wpipp-settings.php:304
+msgid "Bottom Right"
+msgstr ""
+
+#: php/wpipp-settings.php:305
+msgid "Tile X and Y"
+msgstr ""
+
+#: php/wpipp-settings.php:308 php/wpipp-settings.php:354
+msgid "Enabled"
+msgstr ""
+
+#: php/wpipp-settings.php:309
+msgid "Disabled"
+msgstr ""
+
+#: php/wpipp-settings.php:312
+msgid "JPG"
+msgstr ""
+
+#: php/wpipp-settings.php:313
+msgid "PNG"
+msgstr ""
+
+#: php/wpipp-settings.php:316
+msgid "On"
+msgstr ""
+
+#: php/wpipp-settings.php:317
+msgid "Off"
+msgstr ""
+
+#: php/wpipp-settings.php:324
+msgid "None"
+msgstr ""
+
+#: php/wpipp-settings.php:325
+msgid "Text"
+msgstr ""
+
+#: php/wpipp-settings.php:355
+msgid "Sets the watermark option across the site"
+msgstr ""
+
+#: php/wpipp-settings.php:361
+msgid "Watermark only Size"
+msgstr ""
+
+#: php/wpipp-settings.php:362
+msgid ""
+"Specify the minimum height or width of images before watermarks are applied"
+msgstr ""
+
+#: php/wpipp-settings.php:382
+msgid "Watermark Text"
+msgstr ""
+
+#: php/wpipp-settings.php:383
+msgid "Text to display on images"
+msgstr ""
+
+#: php/wpipp-settings.php:388
+msgid "Text Font"
+msgstr ""
+
+#: php/wpipp-settings.php:389
+msgid "Name of font to be used"
+msgstr ""
+
+#: php/wpipp-settings.php:396
+msgid "Text Size"
+msgstr ""
+
+#: php/wpipp-settings.php:397
+msgid "Font size of text"
+msgstr ""
+
+#: php/wpipp-settings.php:405
+msgid "Text Colour"
+msgstr ""
+
+#: php/wpipp-settings.php:406
+msgid "Choose the display text colour you'd like"
+msgstr ""
+
+#: php/wpipp-settings.php:412
+msgid "Text Margin"
+msgstr ""
+
+#: php/wpipp-settings.php:413
+msgid "Size of the text border"
+msgstr ""
+
+#: php/wpipp-settings.php:421
+msgid "Background Colour"
+msgstr ""
+
+#: php/wpipp-settings.php:422
+msgid "Colour of the text box"
+msgstr ""
+
+#: php/wpipp-settings.php:433
+msgid "Watermark Position"
+msgstr ""
+
+#: php/wpipp-settings.php:434
+msgid "Position of watermark on image"
+msgstr ""
+
+#: php/wpipp-settings.php:440
+msgid "Watermark Scaling"
+msgstr ""
+
+#: php/wpipp-settings.php:441
+msgid "Whether to scale the watermark relative to the image size"
+msgstr ""
+
+#: php/wpipp-settings.php:468
+msgid "Render Images"
+msgstr ""
+
+#: php/wpipp-settings.php:469
+msgid ""
+"Choose how you wish the Watermarked images to be rendered (JPG is fastest)"
+msgstr ""
+
+#: php/wpipp-settings.php:475
+msgid "Rewrite Rules"
+msgstr ""
+
+#: php/wpipp-settings.php:478
+msgid ""
+"Caution - do not edit the rewrite rules unless you know what you are "
+"doing<br/>"
+msgstr ""
+
+#: php/wpipp-settings.php:483
+msgid "Debug Option"
+msgstr ""
+
+#: php/wpipp-settings.php:486
+msgid "Enable debug option for watermarks <br/>"
+msgstr ""
+
+#: php/wpipp-settings.php:610
+msgid "Save Changes"
+msgstr ""
+
+#: php/wpipp-settings.php:826
+msgid ""
+"Debug Option is ENABLED, images will NOT be displayed, please disable it in "
+"advanced options below to show images on your site"
+msgstr ""
+
+#: php/wpipp-settings.php:1025
+msgid "Support"
+msgstr ""
+
+#: php/wpipp-settings.php:1028
+msgid "Need help with the plugin?"
+msgstr ""
+
+#: php/wpipp-settings.php:1029
+msgid "Try the following:"
+msgstr ""
+
+#: php/wpipp-settings.php:1031
+msgid "Read the documentation"
+msgstr ""
+
+#: php/wpipp-settings.php:1032
+msgid "Check the support forums"
+msgstr ""
+
+#: php/wpipp-settings.php:1033
+msgid "Visit the WP Image Protect website"
+msgstr ""
+
+#: php/wpipp-settings.php:1050
+msgid "Power Up"
+msgstr ""
+
+#: php/wpipp-settings.php:1053
+msgid "Want even more from WP Image Protect?"
+msgstr ""
+
+#: php/wpipp-settings.php:1054
+msgid "Add the Premium Pack for:"
+msgstr ""
+
+#: php/wpipp-settings.php:1056
+msgid "Images as Watermarks"
+msgstr ""
+
+#: php/wpipp-settings.php:1057
+msgid "Watermark Transparency"
+msgstr ""
+
+#: php/wpipp-settings.php:1058
+msgid "Hotlink Prevention"
+msgstr ""
+
+#: php/wpipp-settings.php:1059
+msgid "Supercharged Performance"
+msgstr ""
+
+#: php/wpipp-settings.php:1060
+msgid "Variable Text Watermarks"
+msgstr ""
+
+#: php/wpipp-settings.php:1061
+msgid "Additional Fonts"
+msgstr ""
+
+#: php/wpipp-settings.php:1062
+msgid "Premium Support"
+msgstr ""
+
+#: php/wpipp-settings.php:1084
+msgid "PHP Debug Info"
+msgstr ""
+
+#: php/wpipp-settings.php:1091
+msgid "Could not load server info"
+msgstr ""
+
+#: wp-image-protect.php:134
+msgid "WPIPP Exclude from Watermarking"
+msgstr ""
+
+#: wp-image-protect.php:139
+msgid "Check for yes"
+msgstr ""
+
+#: wp-image-protect.php:161
+msgid "Ex. from Watermarking"
+msgstr ""
+
+#: wp-image-protect.php:162
+msgid "View Count"
+msgstr ""
+
+#: wp-image-protect.php:163
+msgid "Hotlink Attempts"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP Image Protect Lite"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://8mediacentral.com/developments/wp-image-protect/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Watermark your images dynamically without modifying the original content."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "8MediaCentral"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://8MediaCentral.com"
+msgstr ""
